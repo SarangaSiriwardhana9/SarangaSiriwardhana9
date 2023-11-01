@@ -27,6 +27,26 @@ Feel free to connect with me and explore my GitHub repositories to see some of t
   <h2>📊 GitHub Stats:</h2>
 
 
+<div align="center">
+  <style>
+    .github-stats {
+      width: 350px;
+      height: 250px;
+    }
+    .streak-stats {
+      width: 350px;
+      height: 300px;
+      margin-top: 10px;
+    }
+  </style>
+  <div style="display: flex; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=SarangaSiriwardhana9&theme=dark&hide_border=false&include_all_commits=false&count_private=false" class="github-stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SarangaSiriwardhana9&theme=dark&hide_border=false" class="streak-stats" />
+  </div>
+</div>
+
+
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarangaSiriwardhana9&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"  height="300" width="400"/><br/>
 
   
