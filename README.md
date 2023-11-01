@@ -28,12 +28,9 @@ Feel free to connect with me and explore my GitHub repositories to see some of t
 
 
 <div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=SarangaSiriwardhana9&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="350" height="250" /></td>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=SarangaSiriwardhana9&theme=dark&hide_border=false" alt="GitHub Streak" width="380" height="300" style="margin-top: 10px;" /></td>
-    </tr>
-  </table>
+<img src="https://github-readme-stats.vercel.app/api?username=SarangaSiriwardhana9&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="350" height="250" />
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=SarangaSiriwardhana9&theme=dark&hide_border=false" alt="GitHub Streak" width="380" height="300" style="margin-top: 10px;" />
+  
 </div>
 
 
