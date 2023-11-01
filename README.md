@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+## About Me
+
+I am a third-year undergraduate student pursuing a degree in Software Engineering at the Sri Lanka Institute of Information Technology (SLIIT). My passion for technology and software development has driven me to explore various aspects of the field. As a budding software engineer, I'm enthusiastic about full-stack development and continuously honing my skills to create meaningful and efficient solutions.
+
+Feel free to connect with me and explore my GitHub repositories to see some of the projects I've been working on. I'm always eager to collaborate and learn from the vast and dynamic world of software engineering.
+
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWQ1cWtyZXFwNmZreHFmNWRoajBpdXlycHV2bG01c2YzNnQwczZ6MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zbMRZx113HKBkeCwrm/giphy.gif" width="300" height="300"/>
 </div>
