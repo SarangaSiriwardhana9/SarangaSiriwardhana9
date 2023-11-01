@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## About Me
+## About Me 😄💬
 
 I am a third-year undergraduate student pursuing a degree in Software Engineering at the Sri Lanka Institute of Information Technology (SLIIT). My passion for technology and software development has driven me to explore various aspects of the field. As a budding software engineer, I'm enthusiastic about full-stack development and continuously honing my skills to create meaningful and efficient solutions.
 
