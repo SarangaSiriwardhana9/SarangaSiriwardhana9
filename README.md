@@ -27,23 +27,10 @@ Feel free to connect with me and explore my GitHub repositories to see some of t
   <h2>📊 GitHub Stats:</h2>
 
 
-<div align="center">
-  <style>
-    .github-stats {
-      width: 350px;
-      height: 250px;
-    }
-    .streak-stats {
-      width: 350px;
-      height: 300px;
-      margin-top: 10px;
-    }
-  </style>
-  <div style="display: flex; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=SarangaSiriwardhana9&theme=dark&hide_border=false&include_all_commits=false&count_private=false" class="github-stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SarangaSiriwardhana9&theme=dark&hide_border=false" class="streak-stats" />
-  </div>
-</div>
+| ![Image 1](https://github.com/SarangaSiriwardhana9/-Procurement-for-Construction-Industry-/assets/99233703/911797d3-273d-445e-8b28-cbad07c7af7e) | ![Image 2](https://github.com/SarangaSiriwardhana9/-Procurement-for-Construction-Industry-/assets/99233703/5311b73e-202a-4bcf-9625-74b5f02dedba) | ![Image 3](https://github.com/SarangaSiriwardhana9/-Procurement-for-Construction-Industry-/assets/99233703/37887476-a7f7-434d-8e47-8cac7437ece5) |
+| --- | --- | --- |
+| ![Image 4](https://github.com/SarangaSiriwardhana9/-Procurement-for-Construction-Industry-/assets/99233703/7aabe37a-46a9-4496-b79f-0328931281cc) | ![Image 5](https://github.com/SarangaSiriwardhana9/-Procurement-for-Construction-Industry-/assets/99233703/0473755d-4a90-43af-93a3-98468a553d2e) | ![Image 6](https://github.com/SarangaSiriwardhana9/-Procurement-for-Construction-Industry-/assets/99233703/6826229c-ea62-49b2-9b3e-e2aad842626b) |
+
 
 
 
