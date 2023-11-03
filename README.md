@@ -31,7 +31,7 @@ Feel free to connect with me and explore my GitHub repositories to see some of t
     <tr>
       <td><img src="https://github-readme-stats.vercel.app/api?username=SarangaSiriwardhana9&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="350" height="250" />   
       </td>
-      <td> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SarangaSiriwardhana9&theme=dark&hide_border=false" height="400" width="350" margin-top="10px"/><br/></td>
+      <td> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SarangaSiriwardhana9&theme=dark&hide_border=false" height="420" width="380" margin-top="10px"/><br/></td>
     </tr>
   </table>
 </div>
