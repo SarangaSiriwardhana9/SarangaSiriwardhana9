@@ -2,9 +2,9 @@
 
 ## About Me 😄💬
 
-I am a third-year undergraduate student pursuing a degree in Software Engineering at the Sri Lanka Institute of Information Technology (SLIIT). My passion for technology and software development has driven me to explore various aspects of the field. As a budding software engineer, I'm enthusiastic about full-stack development and continuously honing my skills to create meaningful and efficient solutions.
+###I am a third-year undergraduate student pursuing a degree in Software Engineering at the Sri Lanka Institute of Information Technology (SLIIT). My passion for technology and software development has driven me to explore various aspects of the field. As a budding software engineer, I'm enthusiastic about full-stack development and continuously honing my skills to create meaningful and efficient solutions.
 
-Feel free to connect with me and explore my GitHub repositories to see some of the projects I've been working on. I'm always eager to collaborate and learn from the vast and dynamic world of software engineering.
+Feel free to connect with me and explore my GitHub repositories to see some of the projects I've been working on. I'm always eager to collaborate and learn from the vast and dynamic world of software engineering.###
 
 
 <div id="header" align="center">
