@@ -2,9 +2,10 @@
 
 ## About Me 😄💬
 
- I am a 4th-year undergraduate student pursuing a degree in Software Engineering at the Sri Lanka Institute of Information Technology (SLIIT). My passion for technology and software development has driven me to explore various aspects of the field. As a budding software engineer, I'm enthusiastic about full-stack development and continuously honing my skills to create meaningful and efficient solutions.
+I’m a software engineer and full stack developer specializing in building modern, scalable web and mobile applications. My work spans technologies such as Next.js, React Native, Flutter, NestJS, and MongoDB, with a focus on creating efficient, high-quality solutions that solve real-world problems.
 
- Feel free to connect with me and explore my GitHub repositories to see some of the projects I've been working on. I'm always eager to collaborate and learn from the vast and dynamic world of software engineering.
+I’m deeply passionate about continuous learning, collaboration, and exploring new technologies that push the boundaries of innovation.
+Feel free to check out my repositories — I’m always open to feedback, ideas, and exciting opportunities to collaborate in the world of software engineering.
 
 
 <div id="header" align="center">
